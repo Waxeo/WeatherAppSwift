@@ -9,7 +9,7 @@ L'affichage se fait sous 3 onglets :
 - Météo actuelle,
 - Météo Journaliére,
 - Météo Hebdomadaire.
-- 
+  
 ## Affichage
 
 <img width="411" alt="Capture d’écran 2024-09-24 à 14 05 18" src="https://github.com/user-attachments/assets/cc7287eb-37fc-406b-9db2-26f6177c6e89">
